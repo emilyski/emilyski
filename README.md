@@ -1,4 +1,4 @@
 - Hello, my name is Emily Olstynski.
-- I am interested in becoming a software developer.
-- I am currently learning Java Script.
+- I am interested in becoming a scrum master.
+- I am currently learning Java Script and Agile frameworks - scrum.
 - Visit my Codecademy account, @eolstynski !
